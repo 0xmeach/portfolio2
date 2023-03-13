@@ -12,7 +12,7 @@ const Testimonial = () => {
   const [currentIndex, setCurrentIndex ] = useState(0);
 
   return (
-    <div>watup</div>
+    <div>Testimonials</div>
   )
 }
 
